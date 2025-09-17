@@ -15,4 +15,5 @@
 # You can watch me at: 
 <p align="left">
 <a href="https://www.twitch.tv/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
+<a href="https://www.kick.com/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/kick.png" alt="" height="30" /></a>  
 </p>
