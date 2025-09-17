@@ -1,20 +1,18 @@
-## Hi there 👋
+# Hey there! I’m camzswangin and Welcome to My Gaming Realm!🎮  
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://images6.alphacoders.com/139/1398035.jpg" height="300" /></a>
 
-<!--
-**camzswangin/camzswangin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images6.alphacoders.com/139/1398035.jpg" height="100" /></a>
+🚀 Full-time gamer, part-time coder,  
+⚡ Grinding through bugs like boss battles,  
+🕹 Leveling up one repo at a time.  
 
-Here are some ideas to get you started:
+> *“Eat. Play. Sleep. Repeat.”*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack: [List your main tech here]  
+🎯 Currently exploring: [Your current project/game/tech]  
+
+# You can watch me at: 
+<p align="left">
+<a href="https://www.twitch.tv/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
+</p>
