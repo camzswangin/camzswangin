@@ -3,30 +3,40 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://images6.alphacoders.com/139/1398035.jpg" height="300" /></a>
 
 
-🚀 Full-time gamer, part-time coder,  
-⚡ Grinding through bugs like boss battles,  
-🕹 Leveling up one repo at a time.  
+🚀 Full-time gamer, part-time coder.  
+Currently exploring new programming languages while grinding through bugs like boss fights.
 
-> *“Eat. Play. Sleep. Repeat.”*  
+ > *“Eat. Play. Sleep. Repeat.”*  
 
-💻 Tech Stack: [List your main tech here]  
-🎯 Currently exploring: [Your current project/game/tech]  
+# My Socials
+<p align="left">
+<a href="http://facebook.com/camzswangin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="" height="30" /></a>
+<a href="http://instagram.com/camz.wolf" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="Instagram" height="30" /></a>
+<a href="https://www.threads.com/@camz.wolf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" alt="" height="30" /></a>
+<a href="https://www.youtube.com/@camzswangin8595" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<a href="https://www.tiktok.com/@camz.wolf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tiktok_logo.png" alt="" height="30" /></a>
+</p>
 
 # You can watch me at: 
 <p align="left">
 <a href="https://www.twitch.tv/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="https://www.kick.com/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/kick.png" alt="" height="30" /></a>  
 </p>
 
-## 🎮 Gaming Platforms  
+## 🎮 My Gaming Platforms  
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YourSteamID)  
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/profile?gamertag=YourGamertag)  
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/YourPSN)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YourDiscordID)  
-[![Mobile Games](https://img.shields.io/badge/Mobile%20Gaming-FF5733?style=for-the-badge&logo=googleplay&logoColor=white)](#)  
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" alt="discord logo"/></a>
+<a href="https://account.riotgames.com/camzswangin" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/59/109/png-clipart-riot-games-round-thumbnail-tech-companies.png" height="30" alt="Riot Games"/></a>
+<a href="steamcommunity.com/id/camzswangin" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" alt="Steam logo"/></a>
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Roblox_%282025%29_%28App_Icon%29.svg" height="30" alt="Roblox"/></a>
 
+## MY GITHUB STATS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobgamingph&show_icons=true&theme=radical)
+
+## 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noobgamingph&theme=radical)](https://git.io/streak-stats)
 
 ## CREDITS
 
-<a href="https://github.com/noobgamingph" target="blank">Noob_GamingPH™</a> FOR THE REPOSITORY
+<a href="https://github.com/mishmanners" target="blank">MishManners®™ AKA the Hackathon Queen®™</a> FOR THE REPOSITORY
