@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images6.alphacoders.com/139/1398035.jpg" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images6.alphacoders.com/139/1398035.jpg" height="300" /></a>
 
 <!--
 **camzswangin/camzswangin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
